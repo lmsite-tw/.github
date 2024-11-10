@@ -5,4 +5,4 @@
 
 如果有問題，請email: web+lm@yuanhau.com
 ### 公告系統
-https://lovemusic.yuanhau.com/news-system/index.php
+https://lovemusic.yuanhau.com/news-system/list.php
